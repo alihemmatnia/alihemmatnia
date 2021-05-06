@@ -11,6 +11,7 @@ I love Web programming and Web Design
 ## 🔧 My Favorite Technologies
 ![](https://img.shields.io/badge/_Os-_Windows-blue?style=plastic&logo=Windows)
 ![](https://img.shields.io/badge/_Ide-_Visual%20Studio-blue?style=plastic&logo=Visual-Studio)
+![](https://img.shields.io/badge/_Editor-_Visual%20Studio_Code-blue?style=plastic&logo=Visual-Studio-Code)
 ![](https://img.shields.io/badge/_Lang-_Csharp-blue?style=plastic&logo=C%20Sharp)
 ![](https://img.shields.io/badge/_Code-_Java%20Script-blue?style=plastic&logo=Javascript)
 ![](https://img.shields.io/badge/_Code-_Asp.Net_Core-blue?style=plastic&logo=C%20Sharp)
