@@ -13,13 +13,14 @@ I Love Web FullStack Developer
 ![](https://img.shields.io/badge/_Ide-_Visual%20Studio-blue?style=plastic&logo=Visual-Studio)
 ![](https://img.shields.io/badge/_Editor-_Visual%20Studio_Code-blue?style=plastic&logo=Visual-Studio-Code)
 ![](https://img.shields.io/badge/_Lang-_Csharp-blue?style=plastic&logo=C%20Sharp)
-![](https://img.shields.io/badge/_Code-_Java%20Script-blue?style=plastic&logo=Javascript)
 ![](https://img.shields.io/badge/_Code-_Asp.Net_Core-blue?style=plastic&logo=C%20Sharp)
+![](https://img.shields.io/badge/_Code-_Java%20Script-blue?style=plastic&logo=Javascript)
 ![](https://img.shields.io/badge/_Code-_ReactJs-blue?style=plastic&logo=React)
+![](https://img.shields.io/badge/_Code-_Python-green?style=plastic&logo=Python)
 ![](https://img.shields.io/badge/_DB-_Sql%20Server-blue?style=plastic&logo=Microsoft%20sql%20server)
 ![](https://img.shields.io/badge/_Tools-_Docker-blue?style=plastic&logo=Docker)
 ![](https://img.shields.io/badge/_Tools-_Git-blue?style=plastic&logo=git)
-![](https://img.shields.io/badge/_Code-_Python-green?style=plastic&logo=Python)
+
 
 <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali2004h-linux&bg_color=20,5f2c82,49a09d&title_color=fff&text_color=fff&count_private=true">
