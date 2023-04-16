@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 📄 Know about my experiences [https://zil.ink/alihemmatnia](https://zil.ink/alihemmatnia)
+- 📄 Know about my  [https://zil.ink/alihemmatnia](https://zil.ink/alihemmatnia)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
