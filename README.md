@@ -3,13 +3,12 @@
 </div>  
   
 
-### <div align="center">I'm Ali, a  full-stack developer 👨‍💻 working remotely since 2020🚀</div>  
+### <div align="center">I'm Ali, full-stack developer👨‍💻 Start programming from 2020🚀</div>  
   
 
   
 
-- 🌱 I’m currently learning TDD And Asp.net Core & React Advanced😍  
-  
+- 🌱 I’m currently learning Asp.net Core & React😍  
 
 <br/>  
 
