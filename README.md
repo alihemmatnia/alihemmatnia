@@ -11,7 +11,6 @@
 
 - 📄 Know about my  [https://zil.ink/alihemmatnia](https://zil.ink/alihemmatnia)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
