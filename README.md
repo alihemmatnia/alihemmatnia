@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">Dotnet Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihemmatnia&label=Profile%20views&color=0e75b6&style=flat" alt="alihemmatnia" /> </p>
 
-- 🔭 I’m currently working on **RokhErp** & **Limoo**
+- 🔭 I’m currently working on **Erp** & **Limoo**
 
-- 🌱 I’m currently learning **Asp.net Core & ReactJs**
+- 🌱 I’m currently improve skill **Asp.net Core & ReactJs**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
