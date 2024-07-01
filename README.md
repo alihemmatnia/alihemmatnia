@@ -21,11 +21,6 @@
 
 <h3 align="left">Stats :</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihemmatnia" alt="alihemmatnia" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihemmatnia&show_icons=true&locale=en&layout=compact" alt="alihemmatnia" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihemmatnia&show_icons=true&locale=en" alt="alihemmatnia" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihemmatnia&" alt="alihemmatnia" /></p>
