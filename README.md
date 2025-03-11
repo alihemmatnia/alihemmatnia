@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihemmatnia&label=Profile%20views&color=0e75b6&style=flat" alt="alihemmatnia" /> </p>
 
-- 🔭 I’m currently working on **Erp & Limoonline**
-
-- 🌱 I’m currently learning **Asp.Net Core & ReactJs**
-
 - 👨‍💻 All of my projects are available at [github.com/alihemmatnia](github.com/alihemmatnia)
 
 - 💬 Ask me about **csharp - asp.net core - javascript - reactjs**
