@@ -17,5 +17,5 @@
 
 <h3 align="left">Stats :</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihemmatnia&show_icons=true&locale=en" alt="alihemmatnia" /></p>
+![alihemmatnia's Stats](https://github-readme-stats.vercel.app/api?username=alihemmatnia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <br/>
