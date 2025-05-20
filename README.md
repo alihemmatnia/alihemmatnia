@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali | Mid-Level .NET Developer | Full-Stack Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihematnia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihemmatnia/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alihemmatnia@gmail.com)
 
 ## 🛠️ Tech Stack
