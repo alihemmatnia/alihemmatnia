@@ -17,9 +17,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## 🔥 My Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=alihemmatnia&theme=dark)](https://git.io/streak-stats)
-
 ## 🔍 What I Bring to Projects
 ✔️ **Scalability Patterns**: Implemented caching (Redis) and messaging (Kafka/RabbitMQ) in distributed systems  
 ✔️ **Full-Stack Ownership**: From database design (SQL Server/MongoDB) to UI (React) and DevOps (Docker/Nginx)  
