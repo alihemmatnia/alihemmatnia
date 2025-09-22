@@ -50,7 +50,4 @@
 ## 📈 GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alihemmatnia&show_icons=true&theme=radical)](https://github.com/alihemmatnia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihemmatnia&layout=compact&theme=radical)](https://github.com/alihemmatnia)
-
-
 📫 How to reach me: [alihemmatnia@gmail.com](mailto:alihemmatnia@gmail.com)
