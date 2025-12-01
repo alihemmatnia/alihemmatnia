@@ -41,3 +41,5 @@ I focus on building APIs, optimizing systems, and working with microservice-base
 
 Email: [alihemmatnia@gmail.com](mailto:alihemmatnia@gmail.com)  
 LinkedIn: [alihemmatnia](https://www.linkedin.com/in/alihemmatnia/)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
